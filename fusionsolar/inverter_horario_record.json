@@ -1,0 +1,161 @@
+{
+  "success": true,
+  "data": {
+    "hasMeter": true,
+    "list": [
+      {
+        "inverterPower": 0.0,
+        "productPower": 0.0,
+        "onGridPower": 0.0,
+        "fmtCollectTimeStr": "2024-02-17 03:00:00",
+        "powerProfit": 0.0
+      },
+      {
+        "inverterPower": 0.0,
+        "productPower": 0.0,
+        "onGridPower": 0.0,
+        "fmtCollectTimeStr": "2024-02-17 04:00:00",
+        "powerProfit": 0.0
+      },
+      {
+        "inverterPower": 0.0,
+        "productPower": 0.0,
+        "onGridPower": 0.0,
+        "fmtCollectTimeStr": "2024-02-17 05:00:00",
+        "powerProfit": 0.0
+      },
+      {
+        "inverterPower": 0.0,
+        "productPower": 0.0,
+        "onGridPower": 0.0,
+        "fmtCollectTimeStr": "2024-02-17 06:00:00",
+        "powerProfit": 0.0
+      },
+      {
+        "inverterPower": 0.0,
+        "productPower": 0.0,
+        "onGridPower": 0.0,
+        "fmtCollectTimeStr": "2024-02-17 07:00:00",
+        "powerProfit": 0.0
+      },
+      {
+        "inverterPower": 0.07,
+        "productPower": 0.07,
+        "onGridPower": 0.0,
+        "fmtCollectTimeStr": "2024-02-17 08:00:00",
+        "powerProfit": 0.0
+      },
+      {
+        "inverterPower": 0.37,
+        "productPower": 0.37,
+        "onGridPower": 0.02,
+        "fmtCollectTimeStr": "2024-02-17 09:00:00",
+        "powerProfit": 0.0
+      },
+      {
+        "inverterPower": 0.32,
+        "productPower": 0.32,
+        "onGridPower": 0.0,
+        "fmtCollectTimeStr": "2024-02-17 10:00:00",
+        "powerProfit": 0.0
+      },
+      {
+        "inverterPower": 0.43,
+        "productPower": 0.43,
+        "onGridPower": 0.03,
+        "fmtCollectTimeStr": "2024-02-17 11:00:00",
+        "powerProfit": 0.0
+      },
+      {
+        "inverterPower": 1.04,
+        "productPower": 1.04,
+        "onGridPower": 0.06,
+        "fmtCollectTimeStr": "2024-02-17 12:00:00",
+        "powerProfit": 0.0
+      },
+      {
+        "inverterPower": 0.46,
+        "productPower": 0.46,
+        "onGridPower": 0.01,
+        "fmtCollectTimeStr": "2024-02-17 13:00:00",
+        "powerProfit": 0.0
+      },
+      {
+        "inverterPower": 0.52,
+        "productPower": 0.52,
+        "onGridPower": 0.01,
+        "fmtCollectTimeStr": "2024-02-17 14:00:00",
+        "powerProfit": 0.0
+      },
+      {
+        "inverterPower": 0.41,
+        "productPower": 0.41,
+        "onGridPower": 0.0,
+        "fmtCollectTimeStr": "2024-02-17 15:00:00",
+        "powerProfit": 0.0
+      },
+      {
+        "inverterPower": 0.33,
+        "productPower": 0.33,
+        "onGridPower": 0.0,
+        "fmtCollectTimeStr": "2024-02-17 16:00:00",
+        "powerProfit": 0.0
+      },
+      {
+        "inverterPower": 0.28,
+        "productPower": 0.28,
+        "onGridPower": 0.0,
+        "fmtCollectTimeStr": "2024-02-17 17:00:00",
+        "powerProfit": 0.0
+      },
+      {
+        "inverterPower": 0.09,
+        "productPower": 0.09,
+        "onGridPower": 0.0,
+        "fmtCollectTimeStr": "2024-02-17 18:00:00",
+        "powerProfit": 0.0
+      },
+      {
+        "inverterPower": 0.0,
+        "productPower": 0.0,
+        "onGridPower": 0.0,
+        "fmtCollectTimeStr": "2024-02-17 19:00:00",
+        "powerProfit": 0.0
+      },
+      {
+        "inverterPower": 0.0,
+        "productPower": 0.0,
+        "onGridPower": 0.0,
+        "fmtCollectTimeStr": "2024-02-17 20:00:00",
+        "powerProfit": 0.0
+      },
+      {
+        "inverterPower": 0.0,
+        "productPower": 0.0,
+        "onGridPower": 0.0,
+        "fmtCollectTimeStr": "2024-02-17 21:00:00",
+        "powerProfit": 0.0
+      },
+      {
+        "inverterPower": 0.0,
+        "productPower": 0.0,
+        "onGridPower": 0.0,
+        "fmtCollectTimeStr": "2024-02-17 22:00:00",
+        "powerProfit": 0.0
+      },
+      {
+        "inverterPower": 0.0,
+        "productPower": 0.0,
+        "onGridPower": 0.0,
+        "fmtCollectTimeStr": "2024-02-17 23:00:00",
+        "powerProfit": 0.0
+      }
+    ],
+    "total": 21,
+    "pageNo": 1,
+    "pageSize": 30
+  },
+  "failCode": 0,
+  "params": null,
+  "message": null
+},
